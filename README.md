@@ -60,7 +60,7 @@ python main.py
 ```
 
 🧑‍💻 Author
-Nama: Gede Tanok Arta Wijaya
-NIM: 2315101018
+Nama: Gede Tanok Arta Wijaya  
+NIM: 2315101018  
 GitHub: https://github.com/gedetanok
 
