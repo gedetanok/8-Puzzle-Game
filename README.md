@@ -59,7 +59,7 @@ cd 8-Puzzle-Game
 python main.py
 ```
 
-🧑‍💻 Author
+🧑‍💻 Author  
 Nama: Gede Tanok Arta Wijaya  
 NIM: 2315101018  
 GitHub: https://github.com/gedetanok
